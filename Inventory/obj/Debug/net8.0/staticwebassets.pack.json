@@ -5,6 +5,22 @@
       "PackagePath": "staticwebassets\\Inventory.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\wwwroot\\DataTables_2_1_4\\datatables.css",
+      "PackagePath": "staticwebassets\\DataTables_2_1_4\\datatables.css"
+    },
+    {
+      "Id": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\wwwroot\\DataTables_2_1_4\\datatables.js",
+      "PackagePath": "staticwebassets\\DataTables_2_1_4\\datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\wwwroot\\DataTables_2_1_4\\datatables.min.css",
+      "PackagePath": "staticwebassets\\DataTables_2_1_4\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\wwwroot\\DataTables_2_1_4\\datatables.min.js",
+      "PackagePath": "staticwebassets\\DataTables_2_1_4\\datatables.min.js"
+    },
+    {
       "Id": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

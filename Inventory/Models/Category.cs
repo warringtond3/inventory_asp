@@ -6,6 +6,7 @@ namespace Inventory.Models;
 
 public partial class Category
 {
+    [Display(Name = "ID")]
     public int CategoryId { get; set; }
     [Display(Name = "Cagetory Name")]
     public string CategoryName { get; set; } = null!;

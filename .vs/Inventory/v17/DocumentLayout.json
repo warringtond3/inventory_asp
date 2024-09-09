@@ -3,56 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\earl_\\source\\repos\\Inventory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|c:\\users\\earl_\\source\\repos\\inventory\\inventory\\views\\suppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|solutionrelative:inventory\\views\\suppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|c:\\users\\earl_\\source\\repos\\inventory\\inventory\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|solutionrelative:inventory\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|c:\\users\\earl_\\source\\repos\\inventory\\inventory\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|solutionrelative:inventory\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|c:\\users\\earl_\\source\\repos\\inventory\\inventory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|solutionrelative:inventory\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|c:\\users\\earl_\\source\\repos\\inventory\\inventory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|solutionrelative:inventory\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|c:\\users\\earl_\\source\\repos\\inventory\\inventory\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|solutionrelative:inventory\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|c:\\users\\earl_\\source\\repos\\inventory\\inventory\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|solutionrelative:inventory\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|c:\\users\\earl_\\source\\repos\\inventory\\inventory\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|solutionrelative:inventory\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|c:\\users\\earl_\\source\\repos\\inventory\\inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|solutionrelative:inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|c:\\users\\earl_\\source\\repos\\inventory\\inventory\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|solutionrelative:inventory\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|c:\\users\\earl_\\source\\repos\\inventory\\inventory\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|solutionrelative:inventory\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\earl_\\AppData\\Roaming\\Microsoft\\UserSecrets\\b59e7936-8b3f-4e3a-a3a9-a04db1aea6a5\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|c:\\users\\earl_\\source\\repos\\inventory\\inventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|solutionrelative:inventory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Models\\InventoryContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Inventory\\Models\\InventoryContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|c:\\users\\earl_\\source\\repos\\inventory\\inventory\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|solutionrelative:inventory\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|c:\\users\\earl_\\source\\repos\\inventory\\inventory\\views\\suppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|solutionrelative:inventory\\views\\suppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|c:\\users\\earl_\\source\\repos\\inventory\\inventory\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|solutionrelative:inventory\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|c:\\users\\earl_\\source\\repos\\inventory\\inventory\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|solutionrelative:inventory\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|c:\\users\\earl_\\source\\repos\\inventory\\inventory\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1EE6199-7445-47E6-910B-6362DA87FE47}|Inventory\\Inventory.csproj|solutionrelative:inventory\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,175 +41,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Supplier.cs",
-              "DocumentMoniker": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Models\\Supplier.cs",
-              "RelativeDocumentMoniker": "Inventory\\Models\\Supplier.cs",
-              "ToolTip": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Models\\Supplier.cs",
-              "RelativeToolTip": "Inventory\\Models\\Supplier.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T15:15:22.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Inventory\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Models\\Product.cs",
-              "RelativeToolTip": "Inventory\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T15:15:21.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Inventory\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Models\\Category.cs",
-              "RelativeToolTip": "Inventory\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T15:15:14.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Views\\Suppliers\\Index.cshtml",
-              "RelativeDocumentMoniker": "Inventory\\Views\\Suppliers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Views\\Suppliers\\Index.cshtml",
-              "RelativeToolTip": "Inventory\\Views\\Suppliers\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T10:49:05.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Views\\Categories\\Index.cshtml",
-              "RelativeDocumentMoniker": "Inventory\\Views\\Categories\\Index.cshtml",
-              "ToolTip": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Views\\Categories\\Index.cshtml",
-              "RelativeToolTip": "Inventory\\Views\\Categories\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T10:48:59.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "Inventory\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "Inventory\\Views\\Products\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T10:45:03.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Inventory\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Inventory\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T10:40:52.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SuppliersController.cs",
-              "DocumentMoniker": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Controllers\\SuppliersController.cs",
-              "RelativeDocumentMoniker": "Inventory\\Controllers\\SuppliersController.cs",
-              "ToolTip": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Controllers\\SuppliersController.cs",
-              "RelativeToolTip": "Inventory\\Controllers\\SuppliersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T09:36:04.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Inventory\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Inventory\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T09:35:37.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Inventory\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Inventory\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T09:35:09.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Program.cs",
               "RelativeDocumentMoniker": "Inventory\\Program.cs",
               "ToolTip": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Program.cs",
               "RelativeToolTip": "Inventory\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T09:30:17.563Z",
+              "WhenOpened": "2024-09-09T11:00:15.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "InventoryContext.cs",
-              "DocumentMoniker": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Models\\InventoryContext.cs",
-              "RelativeDocumentMoniker": "Inventory\\Models\\InventoryContext.cs",
-              "ToolTip": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Models\\InventoryContext.cs",
-              "RelativeToolTip": "Inventory\\Models\\InventoryContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T09:29:40.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\appsettings.json",
               "RelativeDocumentMoniker": "Inventory\\appsettings.json",
               "ToolTip": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\appsettings.json",
               "RelativeToolTip": "Inventory\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-19T09:22:52.351Z",
+              "WhenOpened": "2024-09-09T10:56:33.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\earl_\\AppData\\Roaming\\Microsoft\\UserSecrets\\b59e7936-8b3f-4e3a-a3a9-a04db1aea6a5\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\b59e7936-8b3f-4e3a-a3a9-a04db1aea6a5\\secrets.json",
+              "ToolTip": "C:\\Users\\earl_\\AppData\\Roaming\\Microsoft\\UserSecrets\\b59e7936-8b3f-4e3a-a3a9-a04db1aea6a5\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\b59e7936-8b3f-4e3a-a3a9-a04db1aea6a5\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T10:55:59.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "Inventory\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Models\\Supplier.cs",
+              "RelativeToolTip": "Inventory\\Models\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:23:01.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Views\\Suppliers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inventory\\Views\\Suppliers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Views\\Suppliers\\Index.cshtml",
+              "RelativeToolTip": "Inventory\\Views\\Suppliers\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAIBJwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T09:18:11.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inventory\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Inventory\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwCIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T09:17:31.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Inventory\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Inventory\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T09:16:38.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Inventory\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\earl_\\source\\repos\\Inventory\\Inventory\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Inventory\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T09:31:27.451Z",
               "EditorCaption": ""
             }
           ]

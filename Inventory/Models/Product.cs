@@ -6,12 +6,13 @@ namespace Inventory.Models;
 
 public partial class Product
 {
+    [Display(Name = "ID")]
     public int ProductId { get; set; }
     [Display(Name = "Product Name")]
     public string ProductName { get; set; } = null!;
-    [Display(Name = "Category ID")]
+    [Display(Name = "Category")]
     public int? CategoryId { get; set; }
-    [Display(Name = "Supplier ID")]
+    [Display(Name = "Supplier")]
     public int? SupplierId { get; set; }
     [Display(Name = "Quantity Per Unit")]
     public string? QuantityPerUnit { get; set; }
@@ -24,7 +25,7 @@ public partial class Product
     [Display(Name = "Reorder Level")]
     public int? ReorderLevel { get; set; }
 
-    public bool? Discontinued { get; set; }
+    public bool Discontinued { get; set; }
 
     public virtual Category? Category { get; set; }
 

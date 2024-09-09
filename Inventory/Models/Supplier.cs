@@ -6,6 +6,7 @@ namespace Inventory.Models;
 
 public partial class Supplier
 {
+    [Display(Name = "ID")]
     public int SupplierId { get; set; }
     [Display(Name = "Supplier Name")]
     public string SupplierName { get; set; } = null!;
